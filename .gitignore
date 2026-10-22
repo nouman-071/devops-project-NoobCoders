@@ -1,0 +1,12 @@
+# Local environment settings
+.env
+
+# Logs
+*.log
+
+# Editor swap files
+*.swp
+
+# Java and Maven
+target/
+*.class

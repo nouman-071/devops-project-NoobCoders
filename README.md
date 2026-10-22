@@ -5,7 +5,7 @@ Java Project that contains , AmazonMQ , MYSQL , Nginx as a Load Balancer and a t
 
 ## Team members
 - Nouman Yousaf — 23-NTU-CS-1202 — GitHub: nouman-071
-- Abdur Rehman — 1180 — GitHub: ia-rehman05
+- Abdur Rehman — 23-NTU-CS-1180 — GitHub: ia-rehman05
 
 ## Repository owner
 Nouman Yousaf — nouman-071
@@ -14,7 +14,7 @@ Nouman Yousaf — nouman-071
 Whatsapp
 
 ## Review turnaround
-We agree to respond to pull request reviews within 1.
+We agree to respond to pull request reviews within one working day.
 
 ## Contribution workflow
 Create a feature branch and open a pull request.

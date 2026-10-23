@@ -1,6 +1,6 @@
 {
   "name": "@nouman-071/devops-pipeline",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Renders the course Markdown sources into HTML pages.",
   "main": "tools/build.js",
   "directories": {
@@ -29,5 +29,8 @@
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
+  },
+  "engines": {
+    "node": ">=20"
   }
 }

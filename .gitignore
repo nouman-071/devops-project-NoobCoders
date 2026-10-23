@@ -10,3 +10,9 @@
 # Java and Maven
 target/
 *.class
+
+node_modules/
+
+out/
+
+*.tgz

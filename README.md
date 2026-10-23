@@ -21,3 +21,27 @@ Create a feature branch and open a pull request.
 Another team member must review and approve the change.
 Address and resolve review conversations before merging.
 Direct pushes to main are blocked.
+
+## Lab 05: Markdown build tool
+
+The repository also contains the Lab 05 Markdown-to-HTML build tool.
+
+Requirements: Node.js 20 or newer, npm, and GNU Make.
+
+Build, test, and package:
+
+```bash
+make ci
+```
+
+This installs locked dependencies, builds the Markdown sources, runs
+three tests, and creates an npm package archive.
+
+The package is named @nouman-071/devops-pipeline and provides the
+devops-build command:
+
+```bash
+devops-build input.md output.html
+```
+
+Generated HTML, node_modules, and package archives are not committed.

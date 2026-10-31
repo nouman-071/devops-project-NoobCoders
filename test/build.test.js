@@ -26,9 +26,6 @@ test('every page is non-empty', () => {
     );
   }
 });
-test('the services page exists', () => {
-  assert.ok(fs.existsSync('out/services.html'));
-});
 
 test('the our-services page exists', () => {
   assert.ok(fs.existsSync('out/our-services.html'));
